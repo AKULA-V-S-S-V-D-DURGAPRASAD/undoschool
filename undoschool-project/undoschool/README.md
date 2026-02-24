@@ -173,27 +173,3 @@ npm run deploy
 | `≥ 1440px` | Max-width centered, optimal whitespace |
 
 ---
-
-## 🎨 Design System
-
-| Token | Value |
-|---|---|
-| Primary | `#7c3aed` (violet-600) |
-| Primary dark | `#5b21b6` (violet-800) |
-| Background | `#f8f7ff` |
-| Display font | **Syne** (900 weight) |
-| Body font | **DM Sans** (300–900) |
-| Card radius | `20px` |
-| Transition | `0.32s cubic-bezier(0.34,1.56,0.64,1)` |
-
----
-
-## 👤 Submission Details
-
-- **Name:** [Your Name Here]
-- **Date:** [Submission Date]
-- **Assignment:** UndoSchool Front-End Developer Assignment
-- **GitHub:** [your-repo-link]
-- **Hosted:** [your-deployed-link]
-- **Video:** [your-loom/youtube-link]
-- **Google Form:** https://forms.gle/xEzFykx4nFqudb8A8
